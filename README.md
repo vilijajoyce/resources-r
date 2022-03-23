@@ -6,3 +6,4 @@
 - [Mark Bounthavong's RPubs](https://rpubs.com/mbounthavong/) 
 - [U of Wisconsin-Madison - R Intro to Selected Topics](https://ssc.wisc.edu/sscc/pubs/R_intro/book/preface.html)
 - [Statistical Tools for High-Throughput Data Analysis](http://www.sthda.com/english/)
+- [UBC Marin Stats Lectures - R Programming and Statistics]9https://www.youtube.com/channel/UCaNIxVagLhqupvUiDK01Mgg)
