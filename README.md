@@ -7,3 +7,4 @@
 - [U of Wisconsin-Madison - R Intro to Selected Topics](https://ssc.wisc.edu/sscc/pubs/R_intro/book/preface.html)
 - [Statistical Tools for High-Throughput Data Analysis](http://www.sthda.com/english/)
 - [UBC Marin Stats Lectures - R Programming and Statistics](https://www.youtube.com/channel/UCaNIxVagLhqupvUiDK01Mgg)
+- [Beyond Multiple Linear Regression - Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
