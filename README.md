@@ -10,3 +10,5 @@
 - [Beyond Multiple Linear Regression - Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
 - [Propensity score matching with R: conventional methods and new features](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8246231/#!po=9.00000)
 - [Tutorial for using propensity score methods for comparative effectiveness and causal inference research](https://rydaro.github.io/)
+- [Amidi Data manipulation with R](https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-r/)
+- [Amidi Data visualization with R](https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-visualization-with-r/)
