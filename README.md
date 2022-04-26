@@ -12,3 +12,4 @@
 - [Tutorial for using propensity score methods for comparative effectiveness and causal inference research](https://rydaro.github.io/)
 - [Amidi Data manipulation with R](https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-r/)
 - [Amidi Data visualization with R](https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-visualization-with-r/)
+- [Luyts/Sichien Tutorial in R Shiny package: Developing Web Applications in the area of Biostatistics & Data Science](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
