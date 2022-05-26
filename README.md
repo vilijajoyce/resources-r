@@ -16,3 +16,4 @@
 - [Luyts/Sichien Tutorial in R Shiny package: Developing Web Applications in the area of Biostatistics & Data Science](https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf)
 - [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 - [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
+- [R Screencasts: real-world examples of live data analyses](https://www.rscreencasts.com/)
