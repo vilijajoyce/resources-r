@@ -18,3 +18,4 @@
 - [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 - [R Screencasts: real-world examples of live data analyses](https://www.rscreencasts.com/)
 - [Heiss Program Evaluation/Causal Inference course using R](https://evalsp23.classes.andrewheiss.com/)
+- [Data wrangling in R](https://github.com/Cghlewis/data-wrangling-functions/wiki)
